@@ -1,4 +1,4 @@
-# TS Schema Validator - Assigment for Software Bastard
+# TS Schema Validator - Assigment for Software Bastards
 
 ## Installatie
 
