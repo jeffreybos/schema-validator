@@ -1,4 +1,4 @@
-# TS Schema Validator - Assigment for Software Bastards
+# TS Schema Validator - Assigment for Software Bastard
 
 ## Installatie
 
@@ -8,9 +8,12 @@ Gebruik Yarn of NPM om de dependencies te installeren.
 yarn
 ```
 
+Runnen van het project
 ```shell
-npm install
+yarn dev
 ```
+
+Bekijk de console van de Developer tools voor het resultaat
 
 ### Unit testing
 
